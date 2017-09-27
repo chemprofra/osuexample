@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  26 SEP 2017 16:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 SEP 2017 12:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1125,7 +1125,7 @@ Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
 \openout8 = `secondExample.jax'.
 
 )
-No file secondExample.aux.
+(./secondExample.aux)
 \openout1 = `secondExample.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -1142,7 +1142,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count312
@@ -1193,6 +1193,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 15.
 LaTeX Info: Redefining \pageref on input line 15.
 LaTeX Info: Redefining \nameref on input line 15.
+
+(./secondExample.out) (./secondExample.out)
 \@outlinefile=\write9
 \openout9 = `secondExample.out'.
 
@@ -1225,14 +1227,14 @@ Package rerunfilecheck Warning: File `secondExample.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `secondExample.out':
-(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             Before: FEA2DCC379184D1F05427D3BA3D6625F;55
 (rerunfilecheck)             After:  49343D90289C869B57D6373FADE228A9;50.
  ) 
 Here is how much of TeX's memory you used:
- 37460 strings out of 492995
- 850215 string characters out of 6132704
- 1005656 words of memory out of 5000000
- 40442 multiletter control sequences out of 15000+600000
+ 37468 strings out of 492995
+ 850337 string characters out of 6132704
+ 1006760 words of memory out of 5000000
+ 40444 multiletter control sequences out of 15000+600000
  11967 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,8n,98p,10403b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1249,10 +1251,10 @@ al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb></usr/local
 l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on secondExample.pdf (1 page, 130581 bytes).
+Output written on secondExample.pdf (1 page, 132572 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 84 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
